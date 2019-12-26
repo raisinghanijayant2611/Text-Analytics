@@ -1,4 +1,4 @@
-# Product recommendation using Social Media Analytics
+# Product recommendation through Social Media Analytics
 
 **Problem Statement:** Providing advice for customers buying “high involvement” goods using social media analytics 
 “High Involvement” goods are purchases which exists when a customer has to buy a product or service that is expensive (either financially or due to emotional consequences). We use Cars as an example of these goods. Following are the details of the task: 
